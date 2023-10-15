@@ -2,7 +2,19 @@
 
 # Bidding
 
-## Massbidding
+## Filters
+To optimize bidding you should use filters the remove unwanted cards and show the majoriy of the cards you're interested in.
+
+Example: for 85's:
+Quality: Gold
+Rarity: Rare
+Min Bid: Something a bit above the price of usual 84's
+Max Bid: Something a bit below the price of usual 85's
+Min Buy Now: Something a bit above the price of usual 85's
+Max Buy Now: That's up to you. I usually leave it empty so I can also bid on some higher end cards.
+
+
+## Mass bidding
 With the highlight bargains functionality of the [FUT Enhancer](tools.md) extension, it's quite easy to find players that are listed below their market value. You can then bid on them and sell them for a profit. This method is quite time consuming, but it's a good way to make coins without much risk or waiting involved.
 
 It works great when bidding on fodder cards, especially when they're on a low or big SBC's are coming up. That way it's basically risk free.
