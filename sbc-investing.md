@@ -28,4 +28,5 @@ It's a bit reliant on either leaks, predictions or speed. You will need to find 
 For example, the Trailblazers Rodrygo SBC just dropped recently and other Real Madrid players at a similar price range went up by a lot because of the links. As there were quite a few reliable leaks for this SBC, you could've invested into those players before the SBC dropped.
 
 Cards like RTTK Modric and TOTW/Gold Bellingham rose quite a lot. The profit got amplified by the fact that those cards also went out of packs at the same time.
+
 ![Modric](assets/rttk-modric.png)
