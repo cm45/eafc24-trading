@@ -1,5 +1,7 @@
-bn# EA FC 24 - Trading
+# EA FC 24 - Trading
 All times used in this guide are Central European Time (CET) and Central European Summer Time (CEST).
+
+Prices and trading methods are based on the PC market. Prices and methods on other platforms may vary. Example: while sniping on PC is a bit easier due to the face of less competition, it will also take longer to see players pop up because of less supply.
 
 ## Tools
 [Tools](tools.md)
