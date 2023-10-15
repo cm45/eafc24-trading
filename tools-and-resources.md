@@ -7,6 +7,7 @@
 
 ## Browser Extensions
 * [FUT Enhancer](https://chrome.google.com/webstore/detail/fut-enhancer/boffdonfioidojlcpmfnkngipappmcoh) for WebApp enhancements. I don't recommend using the auto buyer, but the highlight bargains and FutBin price implementation as well as the fullscreen and grid layout are great.
+* [shortfuts](https://chrome.google.com/webstore/detail/shortfuts/piepdojghinggmddebidfkhfbdaggnmh?hl=en) for WebApp shortcuts
 
 ## Apps
 TODO: Coming soon
