@@ -62,5 +62,5 @@ Meta Cards rise on Thursday due to the influx of coins from Rivals Rewards and M
 > [!WARNING]
 > This section might not be updated regularly.
 
-### Monday 16th of October
-Possible 87 max Hero SBC. Might be worth to invest into 85's and 86's depending on the index.
+### ~~Monday 16th of October~~
+~~Possible 87 max Hero SBC. Might be worth to invest into 85's and 86's depending on the index.~~
